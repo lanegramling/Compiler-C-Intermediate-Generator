@@ -1,0 +1,16 @@
+
+int a;
+int b;
+struct Point {
+	int a;
+	int b;
+	bool c;
+};
+
+int main() {
+	struct Point dog;
+	a = b;
+	dog.a = 5;
+	dog.b = 6;
+	dog.c = true;
+}
